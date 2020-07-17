@@ -31,4 +31,43 @@
   <td>ro2+col2</td>
  </table>
 
+<H1>Flyers</H1>
+
+<table>
+  <tr>
+    <td>row1+col1</td>
+    <td>row2_col2</td>
+  
+  
+  </tr>  
+  
+  <td>row2+col1</td>
+  <td>ro2+col2</td>
+ </table>
+ 
+ <H1>Seniors Go Digital Tip Sheets</H1>
+
+<table>
+  <tr>
+    <td>English Tip Sheet 1</td>
+    <td>English Tip Sheet 2</td>
+    <td>English Tip Sheet 3</td>
+    <td>English Tip Sheet 4</td>
+    <td>English Tip Sheet 5</td>
+    <td>English Tip Sheet 6</td>
+    <td>English Tip Sheet 7</td>
+ 
+  
+  </tr>  
+  
+    <td>Chinse Tip Sheet 1</td>
+    <td>Chinse Tip Sheet 2</td>
+    <td>Chinse Tip Sheet 3</td>
+    <td>Chinse Tip Sheet 4</td>
+    <td>Chinse Tip Sheet 5</td>
+    <td>Chinse Tip Sheet 6</td>
+    <td>Chinse Tip Sheet 7</td>
+  
+ </table>
+
 </body>
