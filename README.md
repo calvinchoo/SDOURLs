@@ -5,7 +5,7 @@
 <body>
 
 
-<h2><a href="https://form.gov.sg/#!/5ed511c339b707001104ebc0">Temperature logging</a></h2>
+<a href="https://form.gov.sg/#!/5ed511c339b707001104ebc0">Temperature logging</a>
 
 <h2><a href="http://go.gov.sg/hawkergodigital">Hawker Engagement</a></h2>
 <h2><a href="https://form.gov.sg/#!/5ef8bf36d05786001138d5ce">Hawker Post Installation</a></h2>
@@ -23,21 +23,22 @@
   <tr>
     <td>Whatsapp</td>
     <td>SafeEntry</td> 
-    <td>Subject</td>
-    <td>Subject</td>
+    <td>CyberSecurity</td>
+    <td></td>
   </tr>  
   <tr>
   <td>Singpass</td>
-  <td>Subject</td>
   <td></td>
-    <td>Subject</td>
+  <td></td>
+    <td></td>
   </tr>
   
   <tr>
-  <td>Subject</td>
-  <td>Subject</td>
-  <td>Subject</td>
-  <td>Subject</td>
+  <td>ePayment-Dash</td>
+  <td>ePayment-Grab</td>
+  <td>ePayment-UOB</td>
+  <td>ePayment-POSB</td>
+  <td>ePayment-OCBC</td>
   </tr>
  </table>
 
