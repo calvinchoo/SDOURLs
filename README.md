@@ -20,9 +20,9 @@
 
 
 
-<H1> you can get below hyperlink files in <a href = "https://drive.google.com/drive/folders/1svjDhQgUStXV5HHU3NV-yLV_5uCZSxIH?usp=sharing" >Google Drive </a> </H1>
+<H1> Below Files is also avaialble in <a href = "https://drive.google.com/drive/folders/1svjDhQgUStXV5HHU3NV-yLV_5uCZSxIH?usp=sharing" >Google Drive </a> </H1>
   
-<H1>Training Materials</H1>
+<H2>Training Materials</H2>
 
 <table>
   <tr>
@@ -49,7 +49,7 @@
   </tr>
  </table>
 
-<H1>Flyers</H1>
+<H2>Flyers</H2>
 
 <table>
   <tr>
@@ -63,7 +63,7 @@
   <td><a href="res/IMDA-004-T20E_Hawker_flyer_Tamil.jpg">Hawker_Tamil</a></td>
  </table>
  
- <H1>Seniors Go Digital Tip Sheets</H1>
+ <H2>Seniors Go Digital Tip Sheets</H2>
 
 <table>
   <tr>
