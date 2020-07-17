@@ -23,24 +23,25 @@
 
 <table>
   <tr>
-    <td><a href="res/WhatsApp.pdf">Whatsapp</td>
-    <td>SafeEntry</td> 
-    <td>CyberSecurity</td>
+    <td><a href="res/WhatsApp.pdf">Whatsapp</a></td>
+    <td><a href="res/SafeEntry.pdf">SafeEntry</a></td> 
+    <td><a href="res/Cybersecurity.pdf">CyberSecurity</a></td>
     <td></td>
   </tr>  
   <tr>
-  <td>Singpass</td>
+  <td><a href="res/SingPass v1.pdf">Singpass</a></td>
   <td></td>
   <td></td>
     <td></td>
   </tr>
   
   <tr>
-  <td>ePayment-Dash</td>
-  <td>ePayment-Grab</td>
-  <td>ePayment-UOB</td>
-  <td>ePayment-POSB</td>
-  <td>ePayment-OCBC</td>
+  <td><a href="res/ePayments - An Overview.pdf">ePayment-OverView</a></td>
+  <td><a href="res/ePayments - DASH.pdf">ePayment-Dash</a></td>
+  <td><a href="res/ePayments - GrabPay.pdf">ePayment-Grab</a></td>
+  <td><a href="res/ePayments - UOB.pdf">ePayment-UOB</a></td>
+  <td><a href="res/ePayments - DBS and POSB.pdf">ePayment-DBS/POSB</a></td>
+  <td><a href="res/ePayments - OCBC.pdf">ePayment-OCBC</a></td>
   </tr>
  </table>
 
@@ -48,36 +49,36 @@
 
 <table>
   <tr>
-    <td>row1+col1</td>
-    <td>row2_col2</td>
+    <td><a href="res/IMDA-004-T20E_Hawker_flyer_English.jpg">English</a></td>
+    <td><a href="res/IMDA-004-T20E_Hawker_flyer_Chinese.jpg">Chinese</a></td>
   
   
   </tr>  
   
-  <td>row2+col1</td>
-  <td>ro2+col2</td>
+  <td><a href="res/IMDA-004-T20E_Hawker_flyer_Malay.jpg">Malay</a></td>
+  <td><a href="res/IMDA-004-T20E_Hawker_flyer_Tamil.jpg">Tamil</a></td>
  </table>
  
  <H1>Seniors Go Digital Tip Sheets</H1>
 
 <table>
   <tr>
-    <td>English Tip Sheet 1</td>
-    <td>English Tip Sheet 2</td>
-    <td>English Tip Sheet 3</td>
-    <td>English Tip Sheet 4</td>
-    <td>English Tip Sheet 5</td>
-    <td>English Tip Sheet 6</td>
-    <td>English Tip Sheet 7</td>
+    <td><a href="res/English Tip Sheet 1.pdf">English Tip Sheet 1</a></td>
+    <td><a href="res/English Tip Sheet 2.pdf">English Tip Sheet 2</a></td>
+    <td><a href="res/English Tip Sheet 3.pdf">English Tip Sheet 3</a></td>
+    <td><a href="res/English Tip Sheet 4.pdf">English Tip Sheet 4</a></td>
+    <td><a href="res/English Tip Sheet 5.pdf">English Tip Sheet 5</a></td>
+    <td><a href="res/English Tip Sheet 6.pdf">English Tip Sheet 6</a></td>
+    <td><a href="res/English Tip Sheet 7.pdf">English Tip Sheet 7</a></td>
   </tr>  
    <tr>
-    <td>Chinse Tip Sheet 1</td>
-    <td>Chinse Tip Sheet 2</td>
-    <td>Chinse Tip Sheet 3</td>
-    <td>Chinse Tip Sheet 4</td>
-    <td>Chinse Tip Sheet 5</td>
-    <td>Chinse Tip Sheet 6</td>
-    <td>Chinse Tip Sheet 7</td>
+    <td><a href="res/Chinese Tip Sheet 1.pdf">Chinse Tip Sheet 1</a></td>
+    <td><a href="res/Chinese Tip Sheet 2.pdf">Chinse Tip Sheet 2</a></td>
+    <td><a href="res/Chinese Tip Sheet 3.pdf">Chinse Tip Sheet 3</a></td>
+    <td><a href="res/Chinese Tip Sheet 4.pdf">Chinse Tip Sheet 4</a></td>
+    <td><a href="res/Chinese Tip Sheet 5.pdf">Chinse Tip Sheet 5</a></td>
+    <td><a href="res/Chinese Tip Sheet 6.pdf">Chinse Tip Sheet 6</a></td>
+    <td><a href="res/Chinese Tip Sheet 7.pdf">Chinse Tip Sheet 7</a></td>
   </tr>
  </table>
 
