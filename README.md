@@ -21,14 +21,24 @@
 
 <table>
   <tr>
-    <td>row1+col1</td>
-    <td>row2_col2</td>
-  
-  
+    <td>Whatsapp</td>
+    <td>SafeEntry</td> 
+    <td>Subject</td>
+    <td>Subject</td>
   </tr>  
+  <tr>
+  <td>Singpass</td>
+  <td>Subject</td>
+  <td></td>
+    <td>Subject</td>
+  </tr>
   
-  <td>row2+col1</td>
-  <td>ro2+col2</td>
+  <tr>
+  <td>Subject</td>
+  <td>Subject</td>
+  <td>Subject</td>
+  <td>Subject</td>
+  </tr>
  </table>
 
 <H1>Flyers</H1>
