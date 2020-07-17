@@ -68,7 +68,7 @@
     <td>Chinse Tip Sheet 5</td>
     <td>Chinse Tip Sheet 6</td>
     <td>Chinse Tip Sheet 7</td>
-  
+  </tr>
  </table>
 
 </body>
