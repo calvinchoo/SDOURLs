@@ -26,18 +26,17 @@
 
 <table>
   <tr>
+    <td><a href="res/Mobile Access for Seniors.pdf">Mobile Access For Seniors*</a></td>
+  </tr>
+  <tr>
     <td><a href="res/WhatsApp.pdf">Whatsapp</a></td>
     <td><a href="res/SafeEntry.pdf">SafeEntry</a></td> 
     <td><a href="res/Cybersecurity.pdf">CyberSecurity</a></td>
-    <td></td>
+     <td><a href="res/SingPass v1.pdf">Singpass</a></td>
+    <td>Wireless@SG</td>
+    <td>Zoom</td>
   </tr>  
-  <tr>
-  <td><a href="res/SingPass v1.pdf">Singpass</a></td>
-    <td><a href="res/Mobile Access for Seniors.pdf">Mobile Access For Seniors*</a></td>
-  <td></td>
-  <td></td>
-    <td></td>
-  </tr>
+
   
   <tr>
   <td><a href="res/ePayments - An Overview.pdf">ePayment-OverView</a></td>
