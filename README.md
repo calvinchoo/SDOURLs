@@ -23,7 +23,7 @@
 
 <table>
   <tr>
-    <td>Whatsapp</td>
+    <td><a href="res/WhatsApp.pdf">Whatsapp</td>
     <td>SafeEntry</td> 
     <td>CyberSecurity</td>
     <td></td>
