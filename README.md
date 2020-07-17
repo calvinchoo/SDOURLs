@@ -19,6 +19,9 @@
 <a href="https://form.gov.sg/#!/5ef85a0def922700113f378e">Mobile Access Appeals Request</a>
 
 
+
+<H1> you can get below hyperlink files in <a href = "https://drive.google.com/drive/folders/1svjDhQgUStXV5HHU3NV-yLV_5uCZSxIH?usp=sharing >Google Drive </a> </H1>
+  
 <H1>Training Materials</H1>
 
 <table>
@@ -73,7 +76,7 @@
     <td><a href="res/English Tip Sheet 7.pdf">English Tip Sheet 7</a></td>
   </tr>  
    <tr>
-    <td><a href="https://drive.google.com/file/d/13RIkBCrtk_GOHNyxqwD9rhypI9PKNm-j/view?usp=sharing">Chinse Tip Sheet 1</a></td>
+    <td><a href="res/Chinese Tip Sheet 1.pdf">Chinse Tip Sheet 1</a></td>
     <td><a href="res/Chinese Tip Sheet 2.pdf">Chinse Tip Sheet 2</a></td>
     <td><a href="res/Chinese Tip Sheet 3.pdf">Chinse Tip Sheet 3</a></td>
     <td><a href="res/Chinese Tip Sheet 4.pdf">Chinse Tip Sheet 4</a></td>
@@ -82,5 +85,7 @@
     <td><a href="res/Chinese Tip Sheet 7.pdf">Chinse Tip Sheet 7</a></td>
   </tr>
  </table>
+
+
 
 </body>
