@@ -22,7 +22,7 @@
 
 <H1> Below Files is also avaialble in <a href = "https://drive.google.com/drive/folders/1svjDhQgUStXV5HHU3NV-yLV_5uCZSxIH?usp=sharing" >Google Drive </a> </H1>
   
-<H2>Training Materials</H2>
+<H2 style="margin-left:40px">Training Materials</H2>
 
 <table>
   <tr>
