@@ -56,11 +56,8 @@
     <td>English Tip Sheet 5</td>
     <td>English Tip Sheet 6</td>
     <td>English Tip Sheet 7</td>
- 
-  
   </tr>  
-  
-  
+   <tr>
     <td>Chinse Tip Sheet 1</td>
     <td>Chinse Tip Sheet 2</td>
     <td>Chinse Tip Sheet 3</td>
@@ -68,7 +65,7 @@
     <td>Chinse Tip Sheet 5</td>
     <td>Chinse Tip Sheet 6</td>
     <td>Chinse Tip Sheet 7</td>
-  
+  </tr>
  </table>
 
 </body>
