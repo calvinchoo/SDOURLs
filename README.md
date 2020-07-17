@@ -22,7 +22,7 @@
 
 <H1> Below Files is also avaialble in <a href = "https://drive.google.com/drive/folders/1svjDhQgUStXV5HHU3NV-yLV_5uCZSxIH?usp=sharing" >Google Drive </a> </H1>
   
-<H2 style="margin-left:40px">Training Materials</H2>
+<H3 style="margin-left:40px">Training Materials</H3>
 
 <table>
   <tr>
@@ -49,7 +49,7 @@
   </tr>
  </table>
 
-<H2>Flyers</H2>
+<H3>Flyers</H3>
 
 <table>
   <tr>
@@ -63,7 +63,7 @@
   <td><a href="res/IMDA-004-T20E_Hawker_flyer_Tamil.jpg">Hawker_Tamil</a></td>
  </table>
  
- <H2>Seniors Go Digital Tip Sheets</H2>
+ <H3>Seniors Go Digital Tip Sheets</H3>
 
 <table>
   <tr>
