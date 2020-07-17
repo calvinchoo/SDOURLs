@@ -50,14 +50,14 @@
 
 <table>
   <tr>
-    <td><a href="res/IMDA-004-T20E_Hawker_flyer_English.jpg">English</a></td>
-    <td><a href="res/IMDA-004-T20E_Hawker_flyer_Chinese.jpg">Chinese</a></td>
+    <td><a href="res/IMDA-004-T20E_Hawker_flyer_English.jpg">Hawker_English</a></td>
+    <td><a href="res/IMDA-004-T20E_Hawker_flyer_Chinese.jpg">Hawker_Chinese</a></td>
   
   
   </tr>  
   
-  <td><a href="res/IMDA-004-T20E_Hawker_flyer_Malay.jpg">Malay</a></td>
-  <td><a href="res/IMDA-004-T20E_Hawker_flyer_Tamil.jpg">Tamil</a></td>
+  <td><a href="res/IMDA-004-T20E_Hawker_flyer_Malay.jpg">Hawker_Malay</a></td>
+  <td><a href="res/IMDA-004-T20E_Hawker_flyer_Tamil.jpg">Hawker_Tamil</a></td>
  </table>
  
  <H1>Seniors Go Digital Tip Sheets</H1>
@@ -73,7 +73,7 @@
     <td><a href="res/English Tip Sheet 7.pdf">English Tip Sheet 7</a></td>
   </tr>  
    <tr>
-    <td><a href="res/Chinese Tip Sheet 1.pdf">Chinse Tip Sheet 1</a></td>
+    <td><a href="https://drive.google.com/file/d/13RIkBCrtk_GOHNyxqwD9rhypI9PKNm-j/view?usp=sharing">Chinse Tip Sheet 1</a></td>
     <td><a href="res/Chinese Tip Sheet 2.pdf">Chinse Tip Sheet 2</a></td>
     <td><a href="res/Chinese Tip Sheet 3.pdf">Chinse Tip Sheet 3</a></td>
     <td><a href="res/Chinese Tip Sheet 4.pdf">Chinse Tip Sheet 4</a></td>
