@@ -26,7 +26,7 @@
 
 <table>
   <tr>
-    <td><a href="res/Mobile Access for Seniors.pdf">Mobile Access For Seniors*</a></td>
+    <td colspan="2"><a href="res/Mobile Access for Seniors.pdf">Mobile Access For Seniors*</a></td>
   </tr>
   <tr>
     <td><a href="res/WhatsApp.pdf">Whatsapp</a></td>
