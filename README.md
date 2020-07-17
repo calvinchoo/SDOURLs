@@ -22,31 +22,7 @@
 
 <H1> Below resources are also available in <a href = "https://drive.google.com/drive/folders/1svjDhQgUStXV5HHU3NV-yLV_5uCZSxIH?usp=sharing" >Google Drive </a> </H1>
   
-<H3 style="margin-left:40px">Training Materials</H3>
 
-<table>
-  <tr>
-    <td colspan="3"><a href="res/Mobile Access for Seniors.pdf">Mobile Access For Seniors</a></td>
-  </tr>
-  <tr>
-    <td><a href="res/WhatsApp.pdf">Whatsapp</a></td>
-    <td><a href="res/SafeEntry.pdf">SafeEntry</a></td> 
-    <td><a href="res/Cybersecurity.pdf">CyberSecurity</a></td>
-     <td><a href="res/SingPass v1.pdf">Singpass</a></td>
-    <td>Wireless@SG</td>
-    <td>Zoom</td>
-  </tr>  
-
-  
-  <tr>
-  <td><a href="res/ePayments - An Overview.pdf">ePayment-OverView</a></td>
-  <td><a href="res/ePayments - DASH.pdf">ePayment-Dash</a></td>
-  <td><a href="res/ePayments - GrabPay.pdf">ePayment-Grab</a></td>
-  <td><a href="res/ePayments - UOB.pdf">ePayment-UOB</a></td>
-  <td><a href="res/ePayments - DBS and POSB.pdf">ePayment-DBS/POSB</a></td>
-  <td><a href="res/ePayments - OCBC.pdf">ePayment-OCBC</a></td>
-  </tr>
- </table>
 
 <H3>Flyers</H3>
 
