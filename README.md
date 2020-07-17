@@ -5,7 +5,7 @@
 <body>
 
 
-<a href="https://form.gov.sg/#!/5ed511c339b707001104ebc0">Temperature logging</a>
+<a target="_blank" href="https://form.gov.sg/#!/5ed511c339b707001104ebc0">Temperature logging</a>
 
 <a href="http://go.gov.sg/hawkergodigital">Hawker Engagement</a>
 
